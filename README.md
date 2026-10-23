@@ -37,7 +37,7 @@
 
 **[مستودع المقرر](https://github.com/TCTI-Robotics-AI/robot-operating-systems-204)** &nbsp; · &nbsp; **[فهرس التمارين](https://github.com/TCTI-Robotics-AI/robot-operating-systems-204/blob/main/course/exercises-index.md)** &nbsp; · &nbsp; **[العروض الأسبوعية](https://github.com/TCTI-Robotics-AI/robot-operating-systems-204/tree/main/PPT)**
 
-> مستودع المقرر خاص حاليًا. روابط مواده متاحة للحسابات التي لديها صلاحية الوصول.
+> محتوى المقرر متاح للجميع. ابدأ بفهرس التمارين أو تصفح العروض الأسبوعية من الروابط أعلاه.
 
 ## أدوات التعلم والتطبيق
 
