@@ -16,6 +16,8 @@
 
 ---
 
+<p align="center"><strong><a href="https://tcti-robotics-ai.github.io/robot-operating-systems-204/">تصفح موقع المقرر والعروض الأسبوعية ←</a></strong></p>
+
 ## المقرر الذي نعمل عليه
 
 ### أنظمة تشغيل الروبوتات · ٢٠٤ روبوت
